@@ -12,3 +12,5 @@
 /captures
 .externalNativeBuild
 .cxx
+/app/build/kotlin/compileDebugKotlin/caches-jvm/
+/app/build/

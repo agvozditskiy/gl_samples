@@ -72,7 +72,7 @@ class RippleRenderer(
                 GLES20.glCreateShader(GLES20.GL_FRAGMENT_SHADER).let { fragmentShader ->
                     GLES20.glShaderSource(
                         fragmentShader,
-                        loadRawResource(context, R.raw.scanline_fragment_shader)
+                        loadRawResource(context, R.raw.city)
                     )
                     GLES20.glCompileShader(fragmentShader)
                     GLES20.glAttachShader(renderInfo.programId, fragmentShader)
