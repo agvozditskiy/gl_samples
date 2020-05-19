@@ -54,13 +54,6 @@ class GLRippleFragment : Fragment() {
                     }
                 }
             }
-            addBackgroundImages(listOf(
-                BitmapFactory.decodeResource(resources, R.drawable.fish),
-                BitmapFactory.decodeResource(resources, R.drawable.fish)
-            ))
-            setFadeInterval(TimeUnit.SECONDS.toMillis(5))
-            startCrossFadeAnimation()
-
         }
     }
 

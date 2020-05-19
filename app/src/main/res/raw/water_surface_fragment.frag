@@ -21,7 +21,7 @@ vec2 random2(vec2 st){
     return -1.0 + 2.0*fract(sin(st)*43758.5453123);
 }
 
-vec2 mouse(float x, float y) {
+vec2 mouse() {
     vec2 cPos = -1.0 + 2.0 * texcoordVarying;
     cPos.x -= rippleCenterUvX;
     cPos.y -= rippleCenterUvY;
