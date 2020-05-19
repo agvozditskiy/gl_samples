@@ -1,0 +1,2 @@
+rootProject.name='WatertEffect'
+include ':app'

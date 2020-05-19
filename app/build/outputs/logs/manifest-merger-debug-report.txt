@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/a380169ed906a7358a2fcbf848372382/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/4be7aea097538bc9c39683963af30143/jetified-core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/0afa2c58b7b766b1d155f01bfd58ae0a/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [org.rajawali3d:rajawali:1.1.970] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/84632adceb1eeaa5fdfc843fb39500bc/jetified-rajawali-1.1.970/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/4b7c49c54fc7c24be037b99693ebc108/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/11c144b625f6b828513727c865f102c4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/333839dd0f11043d393b6691d8b0c79b/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/f36b692590bce859b7e23a146c0c6e93/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/3fe340845cc9e7f3729c0f1e8c869b2a/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/48915529c89200773481c823acba7464/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/b4e4d7da91236ff9737fbdb4f2446b9c/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/36fbd9e1439fd4bcae4faf350154237f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/f4183268e4e66530cc79066e53f15bcf/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/bd5dbe7529a5337f628415aa79e40c64/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/6e705e1745fff8f024d4f5c1c03dac3f/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/09a50e282fa7d0c0b30903ed70bf42a5/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/5436f7d178cf7ba7cb39a9a7a1c048e0/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/6aff175f04aff21b29160283744e7eb0/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/cc58a45742769f875b4309f26720e2fc/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/4ebab5193c6db893f66c3f601a0cf750/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/ee28247318d991e582a6a79725662e97/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/979988699391805f57371fa44f6c6786/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/3ae462d752c6d8d60ec363b856cc3e61/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/39ff458bb405b68400c585f6572698a8/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/6939d0dcaf57541d6343f26d2625aca3/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/8d4ee7b891af9b1b9d79f64fbf25fd02/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/6b9df0f8636b95f77d8dfd7e4060c9ad/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/8cab47cfec397645831ba09154b42796/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/92efa4684ba87aef81db511de2b43b38/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/8403705273d67ccb449ba8410b722144/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/8daeac77104ebc0c3d727dd46338d60a/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/76a9d4313afb137728e2590eb9a54908/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/cabdfe55b2cb391e4ea119f022e1df1a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/cf40a141c29a8a16207803aebf821158/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/0afa2c58b7b766b1d155f01bfd58ae0a/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/0afa2c58b7b766b1d155f01bfd58ae0a/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/3ae462d752c6d8d60ec363b856cc3e61/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/3ae462d752c6d8d60ec363b856cc3e61/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/39ff458bb405b68400c585f6572698a8/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/39ff458bb405b68400c585f6572698a8/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/3ae462d752c6d8d60ec363b856cc3e61/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.waterteffect.MainActivity
+ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/a380169ed906a7358a2fcbf848372382/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/a380169ed906a7358a2fcbf848372382/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/4be7aea097538bc9c39683963af30143/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/4be7aea097538bc9c39683963af30143/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/0afa2c58b7b766b1d155f01bfd58ae0a/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/0afa2c58b7b766b1d155f01bfd58ae0a/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [org.rajawali3d:rajawali:1.1.970] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/84632adceb1eeaa5fdfc843fb39500bc/jetified-rajawali-1.1.970/AndroidManifest.xml:8:5-10:41
+MERGED from [org.rajawali3d:rajawali:1.1.970] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/84632adceb1eeaa5fdfc843fb39500bc/jetified-rajawali-1.1.970/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/4b7c49c54fc7c24be037b99693ebc108/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/4b7c49c54fc7c24be037b99693ebc108/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/11c144b625f6b828513727c865f102c4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/11c144b625f6b828513727c865f102c4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/333839dd0f11043d393b6691d8b0c79b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/333839dd0f11043d393b6691d8b0c79b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/f36b692590bce859b7e23a146c0c6e93/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/f36b692590bce859b7e23a146c0c6e93/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/3fe340845cc9e7f3729c0f1e8c869b2a/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/3fe340845cc9e7f3729c0f1e8c869b2a/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/48915529c89200773481c823acba7464/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/48915529c89200773481c823acba7464/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/b4e4d7da91236ff9737fbdb4f2446b9c/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/b4e4d7da91236ff9737fbdb4f2446b9c/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/36fbd9e1439fd4bcae4faf350154237f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/36fbd9e1439fd4bcae4faf350154237f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/f4183268e4e66530cc79066e53f15bcf/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/f4183268e4e66530cc79066e53f15bcf/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/bd5dbe7529a5337f628415aa79e40c64/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/bd5dbe7529a5337f628415aa79e40c64/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/6e705e1745fff8f024d4f5c1c03dac3f/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/6e705e1745fff8f024d4f5c1c03dac3f/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/09a50e282fa7d0c0b30903ed70bf42a5/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/09a50e282fa7d0c0b30903ed70bf42a5/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/5436f7d178cf7ba7cb39a9a7a1c048e0/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/5436f7d178cf7ba7cb39a9a7a1c048e0/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/6aff175f04aff21b29160283744e7eb0/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/6aff175f04aff21b29160283744e7eb0/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/cc58a45742769f875b4309f26720e2fc/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/cc58a45742769f875b4309f26720e2fc/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/4ebab5193c6db893f66c3f601a0cf750/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/4ebab5193c6db893f66c3f601a0cf750/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/ee28247318d991e582a6a79725662e97/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/ee28247318d991e582a6a79725662e97/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/979988699391805f57371fa44f6c6786/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/979988699391805f57371fa44f6c6786/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/3ae462d752c6d8d60ec363b856cc3e61/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/3ae462d752c6d8d60ec363b856cc3e61/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/39ff458bb405b68400c585f6572698a8/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/39ff458bb405b68400c585f6572698a8/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/6939d0dcaf57541d6343f26d2625aca3/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/6939d0dcaf57541d6343f26d2625aca3/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/8d4ee7b891af9b1b9d79f64fbf25fd02/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/8d4ee7b891af9b1b9d79f64fbf25fd02/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/6b9df0f8636b95f77d8dfd7e4060c9ad/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/6b9df0f8636b95f77d8dfd7e4060c9ad/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/8cab47cfec397645831ba09154b42796/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/8cab47cfec397645831ba09154b42796/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/92efa4684ba87aef81db511de2b43b38/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/92efa4684ba87aef81db511de2b43b38/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/8403705273d67ccb449ba8410b722144/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/8403705273d67ccb449ba8410b722144/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/8daeac77104ebc0c3d727dd46338d60a/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/8daeac77104ebc0c3d727dd46338d60a/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/76a9d4313afb137728e2590eb9a54908/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/76a9d4313afb137728e2590eb9a54908/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/cabdfe55b2cb391e4ea119f022e1df1a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/cabdfe55b2cb391e4ea119f022e1df1a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/cf40a141c29a8a16207803aebf821158/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gvozditskiy/.gradle/caches/transforms-2/files-2.1/cf40a141c29a8a16207803aebf821158/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gvozditskiy/Android/Projects/WaterEffect/app/src/main/AndroidManifest.xml

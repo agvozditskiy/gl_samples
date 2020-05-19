@@ -1,0 +1,7 @@
+#Tue May 19 13:32:45 MSK 2020
+base.0=/Users/gvozditskiy/Android/Projects/WaterEffect/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/gvozditskiy/Android/Projects/WaterEffect/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
